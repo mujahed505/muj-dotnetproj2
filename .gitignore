@@ -1,0 +1,17 @@
+## .NET / Visual Studio
+bin/
+obj/
+.vs/
+.vscode/
+*.user
+*.suo
+*.userprefs
+publish/
+TestResults/
+*.log
+.idea/
+
+## Secrets
+appsettings.Development.json
+secrets.json
+.env
